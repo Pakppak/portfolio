@@ -1,3 +1,3 @@
 # portfolio
 
-https://www.naver.com/
+file:///C:/Users/Sanghun/.vscode/Portfolio/My-Portfolio/.html
